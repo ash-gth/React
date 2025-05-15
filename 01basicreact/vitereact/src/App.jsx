@@ -1,10 +1,11 @@
+import Chai from "./chai"
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
   
-      <h1> react with vite | Ashish</h1>
+     <Chai>
+     </Chai>
   )
 }
 
