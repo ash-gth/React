@@ -1,4 +1,4 @@
-function chai()
+function Chai()
 {
     return(
         <>
@@ -6,4 +6,4 @@ function chai()
         </>
     )
 }
-export default chai
+export default Chai
