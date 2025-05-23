@@ -21,7 +21,6 @@ const removeValue = () =>
   setLesser(lesser - 1)
 }
 
-// let counter 
   return(
     <>
      <h1>chai or react</h1>
